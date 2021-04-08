@@ -4,3 +4,6 @@ xcuserdata/
 
 *.xcarchive/
 *.xcframework/
+
+opus/libopusenc-src
+opus/opusfile-src
