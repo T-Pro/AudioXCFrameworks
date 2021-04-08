@@ -1,39 +1,12 @@
-[submodule "dumb/dumb-src"]
-	path = dumb/dumb-src
-	url = https://github.com/kode54/dumb.git
-[submodule "taglib/taglib-src"]
-	path = taglib/taglib-src
-	url = https://github.com/taglib/taglib.git
 [submodule "ogg/ogg-src"]
 	path = ogg/ogg-src
 	url = https://github.com/xiph/ogg.git
-[submodule "flac/flac-src"]
-	path = flac/flac-src
-	url = https://github.com/xiph/flac.git
-[submodule "wavpack/wavpack-src"]
-	path = wavpack/wavpack-src
-	url = https://github.com/dbry/WavPack.git
-[submodule "vorbis/vorbis-src"]
-	path = vorbis/vorbis-src
-	url = https://github.com/xiph/vorbis.git
 [submodule "opus/opus-src"]
 	path = opus/opus-src
 	url = https://github.com/xiph/opus.git
-[submodule "speex/speex-src"]
-	path = speex/speex-src
-	url = https://github.com/xiph/speex.git
-[submodule "speex/speexdsp-src"]
-	path = speex/speexdsp-src
-	url = https://github.com/xiph/speexdsp.git
 [submodule "opus/opusfile-src"]
 	path = opus/opusfile-src
 	url = https://github.com/xiph/opusfile.git
 [submodule "opus/libopusenc-src"]
 	path = opus/libopusenc-src
 	url = https://github.com/xiph/libopusenc.git
-[submodule "sndfile/libsndfile-src"]
-	path = sndfile/libsndfile-src
-	url = https://github.com/libsndfile/libsndfile.git
-[submodule "ebur128/libebur128-src"]
-	path = ebur128/libebur128-src
-	url = https://github.com/jiixyj/libebur128.git
